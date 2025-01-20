@@ -1,3 +1,8 @@
+> [!NOTE]
+> This is a basic `create-react-router` app that has been bootstrapped with `vitest` and `storybook`
+
+---
+
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
